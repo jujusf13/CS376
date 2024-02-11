@@ -1,0 +1,4 @@
+use "-g" when compiling. It will help with
+debugging when using valgrind.
+
+VALGRIND NOT WORKING
